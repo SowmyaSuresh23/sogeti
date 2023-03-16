@@ -10,7 +10,7 @@
 7.	Feign client is used for communicating between microservices.
 
 # How to run the application?
-1.	Clone the code from GIT or download as zip file from the URL: https://github.com/SowmyaSuresh23/Sogeti-assessment.git
+1.	Clone the code from GIT or download as zip file from the URL: https://github.com/SowmyaSuresh23/sogeti.git
 2.	Import the project to a workspace in the IDE.
 3.	Build the project using Maven (perform maven clean install).
 4.	Run the application as Spring Boot application.
