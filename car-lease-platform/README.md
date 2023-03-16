@@ -1,6 +1,6 @@
 
 # Important URLs:
-1.	GIT URL: https://github.com/SowmyaSuresh23/Sogeti-assessment.git
+1.	GIT URL: https://github.com/SowmyaSuresh23/sogeti.git
 2.	SWAGGER URL: http://localhost:8085/swagger-ui/index.html
 3.	H2 DB: http://localhost:8085/h2-console/<br />
 Database name: carLeaseDB<br />
